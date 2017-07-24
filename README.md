@@ -1,9 +1,9 @@
-## DeliverImage
+# DeliverImage
 
 Test assignment for Press Association.
 
 
-# Build
+## Build
 
 In order to build, the following must be installed:
 
@@ -11,15 +11,21 @@ In order to build, the following must be installed:
 - Ant 1.10.?
 
 Compile and run unit tests:
-    ant test
+```
+ant test
+```
 
 Compile and run the application:
-    ant run
+```
+ant run
+```
 
 Clean up working directory:
-    ant clean
+```
+ant clean
+```
 
 
-# Note
+## Note
 
 Unit tests are not intended to be exhaustive, only to demonstrate which classes can be tested.
